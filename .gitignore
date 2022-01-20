@@ -5,6 +5,7 @@ core.mongo*
 core.python*
 env.py
 *.py[cod]
+settings.py
 node_modules/
 .github/
 cloudinary_python.txt
